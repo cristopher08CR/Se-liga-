@@ -1,1 +1,5 @@
 # Se-liga-
+ O projeto Se Liga foi criado na intençao de desenvolver e aprimorar os conhecimentos essenciais necessários dos estudantes que apresentam dificuldades de aprendizagem, para que eles adquiram os conhecimentos referentes ao ano/série cursado. Estudantes que apresentarem dificuldades em determinados conteúdos ao longo do ano e aqueles que vieram com defasagem maior.
+
+ O Se Liga surgiu em 2001 em função da necessidade de atender uma grande parcela de estudantes, alunos reprovados por faltas não tem a oportunidade de fazer o projeto Se Liga, Esse projeto acontece de uma duas semanas é realizado presencialmente na escola tambem é realizado em horarios normais de aula, se o alunos estuda de manha ele e obrigado a ir de manha caso ele falte em uma materia que ele não passou ele automaticamente reprova.
+ 
